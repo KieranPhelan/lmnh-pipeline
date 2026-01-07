@@ -2,6 +2,7 @@ data/
 clean_data/
 .terraform
 .venv
+.env
 *.terraform.*
 *.tfstate
 *.tfvars
